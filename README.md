@@ -3,8 +3,8 @@
 Proyecto fullstack desarrollado como parte del taller de integración de APIs GraphQL con bases de datos relacionales y clientes React.
 
 ## 👥 Autores
-* **Nombre del Estudiante:** [Tu Nombre Aquí]
-* **Curso / Asignatura:** Integración de Tecnologías Web
+* **Nombre del Estudiante:** Julian Andres Ceballos Eraso y Juan Miguel Zambrano.
+
 
 ---
 
